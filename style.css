@@ -321,10 +321,10 @@ section {
     color: white;
 }
 
-.slide:nth-child(1) { background: url(./Images/home1-jpg.webp); }
-        .slide:nth-child(2) { background: url(./Images/home2-jpeg.jpeg); }
-        .slide:nth-child(3) { background: url(./Images/home-jpeg.jpeg); }
-        .slide:nth-child(4) { background: url(./Images/kit7-jpeg.jpeg);}
+.slide:nth-child(1) { background: url(images/home1-jpg.webp); }
+        .slide:nth-child(2) { background: url(images/home2-jpeg.jpeg); }
+        .slide:nth-child(3) { background: url(images/home-jpeg.jpeg); }
+        .slide:nth-child(4) { background: url(images/kit7-jpeg.jpeg);}
     
         .nav-button {
             position: absolute;
